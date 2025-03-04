@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Привет! 👋 Я Arsamak — Frontend Developer</h1>
-  <p>Фронтенд-разработчик с 🔥 страстью к созданию современных интерфейсов и широким стеком технологий.</p>
+  <p>Фронтенд-разработчик с 🔥 страстью к кодингу и созданию крутых интерфейсов.</p>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat"/>
-  <p><i>Котик-кодер наблюдает за моим прогрессом!</i></p>
+  <p><i>Котик-кодер следит за моим прогрессом!</i></p>
 </div>
 
 ---
@@ -58,10 +58,14 @@
 
 ## 📈 Статистика 2024-2025
 <div align="center">
+  <h3>Моя активность</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Arsamak&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <p><i>Моя активность за 2024-2025 годы — кодим без остановки! 🚀</i></p>
+  <p><i>Кодим без остановки в 2024-2025! 🚀</i></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsamak&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <p><i>Сколько дней подряд я в деле!</i></p>
+  <p><i>Мой стрик — огонь!</i></p>
+  <h3>Топ языков</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsamak&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <p><i>Вот чем я живу!</i></p>
 </div>
 
 ---
@@ -77,6 +81,14 @@
 - 💻 Написал более 10,000 строк кода за 2024 год.  
 - 🌐 Развернул 5+ проектов с нуля до продакшна.  
 - ☕ Выпил 300+ чашек кофе, поддерживая продуктивность!  
+
+---
+
+## 🎉 Кодинг — это весело!
+<div align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="300" alt="Programming Fun"/>
+  <p><i>Когда код работает с первого раза!</i></p>
+</div>
 
 ---
 
