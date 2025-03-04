@@ -1,12 +1,12 @@
 # Привет! 👋 Я Arsamak — Frontend Developer
 
-Я фронтенд-разработчик с широким стеком технологий и страстью к созданию удобных и современных интерфейсов. Работаю с вебом, мобильными приложениями и даже немного серверной частью. Добро пожаловать на мою страницу!
+Я фронтенд-разработчик с широким стеком технологий и страстью к созданию удобных и современных интерфейсов. Работаю с вебом, мобильными приложениями и немного серверной частью. Добро пожаловать на мою страницу!
 
 ## 🌟 Обо мне
-- 🔭 Сейчас работаю над: [указать текущий проект, например, "React-приложением для e-commerce"]
-- 🌱 Изучаю: [например, "новые возможности TS или Flutter для кроссплатформенности"]
-- ⚡ Факт обо мне: [например, "могу сверстать страницу быстрее, чем заварить кофе"]
-- 📫 Связаться со мной: [твой email, Telegram или LinkedIn]
+- 🔭 Сейчас работаю над: Платформой для студентов с рейтингом (React)
+- 🌱 Изучаю: Новые возможности TypeScript и оптимизацию React-приложений
+- ⚡ Факт обо мне: Могу сверстать страницу быстрее, чем заварить кофе
+- 📫 Связаться со мной: См. ниже!
 
 ## 🛠 Мой стек технологий
 ### Frontend
@@ -26,12 +26,15 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![1C](https://img.shields.io/badge/-1C-FFD700?style=flat&logo=1c-enterprise&logoColor=black) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![XML](https://img.shields.io/badge/-XML-005566?style=flat&logo=xml&logoColor=white) ![XSD](https://img.shields.io/badge/-XSD-005566?style=flat&logo=xsd&logoColor=white)  
 
 ## 📊 Моя статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[твой ник]&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsamak&show_icons=true&theme=dracula)
 
 ## 🔥 Избранные проекты
-- **[Название проекта 1](ссылка)**: [Краткое описание, например, "SPA на React с интеграцией REST API"]
+- **[Student Platform](https://github.com/Arsamak/student-platform)**: Веб-приложение на React для студентов с системой рейтинга.
 - **[Название проекта 2](ссылка)**: [Например, "Мобильное приложение на Flutter для управления задачами"]
 - **[Название проекта 3](ссылка)**: [Например, "Сайт на Angular с Material UI"]
 
 ## 💬 Связаться со мной
-Люблю говорить о фронтенде, новых фреймворках и кофе. Пиши мне: [твой контакт]!
+Люблю говорить о фронтенде, новых фреймворках и кофе. Пиши мне:  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/spector323)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89280928761)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amiraldiev752@gmail.com)
