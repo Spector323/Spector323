@@ -29,11 +29,31 @@
 ## 🛠 Tech Stack
 <div align="center">
   <h3>Frontend & Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vue,reactnative,flutter,androidstudio" /><br/><br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
+  <br/><br/>
   <h3>Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" /><br/><br/>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <br/><br/>
   <h3>Tools & More</h3>
-  <img src="https://skillicons.dev/icons?i=git,bash,aws,csharp,java,php,unity" />
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
 </div>
 
 ---
@@ -62,17 +82,13 @@
 
 ---
 
-## 🎮 Game: Build My Commit Graph
+## 🎮 Game: Super Mario Commits
 <div align="center">
-  <pre>
-  .-----------------.
-  |  Commit Game  |
-  |-----------------|
-  | Simulate my commits and watch  |
-  | my GitHub graph grow! 🚀       |
-  `-----------------`
-  </pre>
-  <a href="https://spector323.github.io/streak-game/">Play Now</a>
+  <h3>Play Mario and Grow My Commit Graph 🎮</h3>
+  <a href="https://spector323.github.io/mario-commits/">
+    <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" alt="Mario Game" width="300" />
+  </a>
+  <p>Click the image to play!</p>
 </div>
 
 ---
@@ -107,6 +123,8 @@
 
 ## 📉 Profile Insights
 <div align="center">
+  <h3>2024-2025 Statistics 📊</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spector323&theme=dracula&hide_border=true&layout=compact" alt="Wakatime Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spector323&theme=dracula" alt="Profile Summary" /><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spector323&theme=dracula" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spector323&theme=dracula" alt="Most Commit Language" />
@@ -118,7 +136,9 @@
 ## 🌆 GitHub Skyline
 <div align="center">
   <h3>My Code Cityscape 🏙️</h3>
-  <a href="https://skyline.github.com/Spector323/2024"><img src="https://github.com/user-attachments/assets/6f5e5f5f-5f5f-5f5f-5f5f-5f5f5f5f5f5f" alt="GitHub Skyline" width="600"/></a>
+  <a href="https://skyline.github.com/Spector323/2024">
+    <img src="https://github.com/user-attachments/assets/6f5e5f5f-5f5f-5f5f-5f5f-5f5f5f5f5f5f" alt="GitHub Skyline" width="600" />
+  </a>
   <p>Explore my 2024 Skyline in 3D! 🌟</p>
 </div>
 
