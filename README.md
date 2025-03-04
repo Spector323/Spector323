@@ -60,7 +60,7 @@
 <div align="center">
   <h3>Активность</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <p><i>Моя активность за 2024-2025 — кодим без остановки! 🚀</i></p>
+  <p><i>Моя активность за 2025 — кодим без остановки! 🚀</i></p>
 
   <h3>Топ языков</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
