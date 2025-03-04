@@ -5,7 +5,7 @@
 
 ---
 
-## 🏆 Достижения
+## 🏆 Мои достижения
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Spector323&theme=onedark&no-frame=true&margin-w=5" alt="Trophies" />
 </div>
@@ -15,19 +15,43 @@
 ## 🛠 Мой стек технологий
 <div align="center">
   <h3>Фронтенд и мобильная разработка</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vue,reactnative,flutter,androidstudio" /><br/><br/>
+  <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="SASS"/></a>
+  <a href="https://javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"/></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue"/></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=reactnative" alt="React Native"/></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/></a>
+  <br/><br/>
+
   <h3>Бэкенд и базы данных</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" /><br/><br/>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+  <br/><br/>
+
   <h3>Инструменты и прочее</h3>
-  <img src="https://skillicons.dev/icons?i=git,bash,aws,csharp,java,php,unity" />
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+  <a href="https://aws.amazon.com/devops/what-is-devops/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=csharp" alt="C#"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity"/></a>
 </div>
 
 ---
 
 ## 📊 Обзор статистики
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=onedark&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -35,7 +59,7 @@
 ## 📈 График активности
 <div align="center">
   <h3>Мои волны кода 🌊</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -43,50 +67,30 @@
 ## 🗣 Языки программирования
 <div align="center">
   <h3>Моя палитра технологий 🎨</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🎮 Игра: Построй мой график коммитов
 <div align="center">
-  <pre>
-  .-----------------.
-  |  Игра в коммиты  |
-  |-----------------|
-  | Симулируй мои коммиты и смотри,  |
-  | как растёт мой график! 🚀       |
-  `-----------------`
-  </pre>
-  <a href="https://spector323.github.io/streak-game/">Играть сейчас</a>
+  <p>Помоги мне построить график коммитов! Кликни, чтобы симулировать коммиты и увидеть, как растёт моя активность.</p>
+  <a href="https://spector323.github.io/streak-game/">Играть в игру 🚀</a>
 </div>
 
 ---
 
 ## 📂 Избранные проекты
-<div align="center">
-  <table>
-    <tr>
-      <td><strong><a href="https://github.com/Spector323/student-platform">Student Platform</a></strong></td>
-      <td>Платформа на React для студентов с системой рейтинга.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/Spector323/taskmaster">TaskMaster</a></strong></td>
-      <td>Мобильное приложение на Flutter для управления задачами.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/Spector323/angularverse">AngularVerse</a></strong></td>
-      <td>Сайт на Angular с Material UI и анимациями.</td>
-    </tr>
-  </table>
-</div>
+- **[Student Platform](https://github.com/Spector323/student-platform)**: Платформа на React для студентов с системой рейтинга.  
+- **[TaskMaster](https://github.com/Spector323/taskmaster)**: Мобильное приложение на Flutter для управления задачами.  
+- **[AngularVerse](https://github.com/Spector323/angularverse)**: Сайт на Angular с Material UI и анимациями.  
 
 ---
 
 ## 📅 Календарь активности
 <div align="center">
   <h3>Мой путь в коде 📆</h3>
-  <img src="https://ghchart.rshah.org/2196F3/Spector323" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/Spector323" alt="Contribution Graph" />
 </div>
 
 ---
@@ -105,30 +109,20 @@
 <div align="center">
   <h3>Мой город кода 🏙️</h3>
   <a href="https://skyline.github.com/Spector323/2024"><img src="https://github.com/user-attachments/assets/6f5e5f5f-5f5f-5f5f-5f5f-5f5f5f5f5f5f" alt="GitHub Skyline" width="600"/></a>
-  <p>Посмотри мой Skyline за 2024 в 3D! 🌟</p>
+  <p>Посмотри мой Skyline за 2024! (Кликни, чтобы увидеть в 3D)</p>
 </div>
 
 ---
 
 ## 📬 Связаться со мной
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="https://t.me/spector323"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a></td>
-      <td><a href="https://wa.me/89280928761"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a></td>
-      <td><a href="mailto:amiraldiev752@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a></td>
-    </tr>
-  </table>
+  <a href="https://t.me/spector323"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://wa.me/89280928761"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:amiraldiev752@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
 <div align="center">
-  <pre>
-  .-------.
-  | Кодим | 
-  | Вместе| 
-  |_______|
-  </pre>
   <p>Код — это моё искусство. Давай создадим что-то невероятное вместе! ✨</p>
 </div>
