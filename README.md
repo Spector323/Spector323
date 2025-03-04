@@ -1,15 +1,14 @@
 <div align="center">
-  <h1>👨‍💻 Arsamak — Frontend Wizard</h1>
-  <p>Turning ideas into stunning interfaces with code magic ✨</p>
+  <h1>Hello, coders! 👋 I’m Arsamak</h1>
+  <p>A passionate Frontend Developer crafting seamless digital experiences.</p>
 </div>
 
 ---
 
-## 👤 About Me
-- 🎯 **Currently Building:** Student Platform with Ranking System (React)  
-- 📚 **Learning:** Advanced TypeScript and React Patterns  
-- ⚡ **Fun Fact:** I code faster than I drink coffee  
-- 📧 **Reach Me:** Check my contacts below!  
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Spector323&theme=onedark&no-frame=true&margin-w=5" alt="Trophies" />
+</div>
 
 ---
 
@@ -20,49 +19,64 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Stats Overview
 <div align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spector323&theme=darkhub&no-frame=true&margin-w=5" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🎮 Game: "Grow My Streak"
+## 🗣 Languages
 <div align="center">
-  <p>Help me grow my GitHub streak! Click below to play a game where you can simulate my commits.</p>
-  <a href="https://spector323.github.io/streak-game/">Play the Streak Game 🚀</a>
-  <p><i>(Click to add commits and see my streak grow!)</i></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎮 Game: "Build My Commit Graph"
+<div align="center">
+  <p>Help me build my commit graph! Click to simulate commits and see my activity grow.</p>
+  <a href="https://spector323.github.io/streak-game/">Play the Commit Game 🚀</a>
 </div>
 
 ---
 
 ## 📂 Highlighted Projects
-- **[Student Platform](https://github.com/Spector323/student-platform)**: A React-based platform for students with a ranking system and responsive design.  
-- **[TaskMaster](https://github.com/Spector323/taskmaster)**: A Flutter mobile app for task management.  
+- **[Student Platform](https://github.com/Spector323/student-platform)**: A React-based platform for students with a ranking system.  
+- **[TaskMaster](https://github.com/Spector323/taskmaster)**: A Flutter app for task management.  
 - **[AngularVerse](https://github.com/Spector323/angularverse)**: An Angular site with Material UI and animations.  
 
 ---
 
-## 📈 Commit Activity (Last 30 Days)
+## 📅 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spector323&theme=dark&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://ghchart.rshah.org/Spector323" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📉 Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spector323&theme=dracula" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spector323&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spector323&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spector323&theme=dracula" alt="Productive Time" />
+</div>
+
+---
+
+## 🌆 GitHub Skyline
+<div align="center">
+  <a href="https://skyline.github.com/Spector323/2024"><img src="https://github.com/user-attachments/assets/6f5e5f5f-5f5f-5f5f-5f5f-5f5f5f5f5f5f" alt="GitHub Skyline" width="600"/></a>
+  <p>Check out my 2024 Skyline! (Click to view in 3D)</p>
 </div>
 
 ---
@@ -77,5 +91,5 @@
 ---
 
 <div align="center">
-  <p>💻 Code. Create. Conquer.</p>
+  <p>Code is my art. Let’s create something amazing together! ✨</p>
 </div>
