@@ -18,12 +18,12 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
   <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="SASS"/></a>
-  <a href="https://javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React Native"/></a>
   <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"/></a>
   <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue"/></a>
-  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=reactnative" alt="React Native"/></a>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/></a>
   <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/></a>
   <br/><br/>
@@ -40,7 +40,7 @@
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
   <a href="https://aws.amazon.com/devops/what-is-devops/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=csharp" alt="C#"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=csharp" alt="C#"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity"/></a>
@@ -105,10 +105,10 @@
 
 ---
 
-## 🌆 GitHub Skyline
+## 🌆 Мой город кода 🏙️
 <div align="center">
-  <h3>Мой город кода 🏙️</h3>
-  <a href="https://skyline.github.com/Spector323/2024"><img src="https://github.com/user-attachments/assets/6f5e5f5f-5f5f-5f5f-5f5f-5f5f5f5f5f5f" alt="GitHub Skyline" width="600"/></a>
+  <h3>Моя активность в 3D</h3>
+  <a href="https://skyline.github.com/Spector323/2024"><img src="https://github.com/Spector323/Spector323/raw/main/assets/skyline-2024.png" alt="GitHub Skyline" width="600"/></a>
   <p>Посмотри мой Skyline за 2024! (Кликни, чтобы увидеть в 3D)</p>
 </div>
 
