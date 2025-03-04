@@ -40,14 +40,22 @@
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
 </div>
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+  <!-- Типинг Анимация -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=Привет,+меня+зовут+Arsamak!;Я+-+инноватор+в+области+фронтенда;Давайте+создадим+что-то+удивительное+вместе!" alt="Типинг Анимация" />
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true" alt="Streak Stats" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  
+  <!-- Анимированный GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Кодинг GIF" width="300" />
+</div>
 ---
 
 ## 🏆 Achievements
