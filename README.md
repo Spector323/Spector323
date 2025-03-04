@@ -1,111 +1,82 @@
 <div align="center">
-  <h1>👋 Hello Everybody!</h1>
-  <h2>I’m Arsamak — I ❤️ Open Source</h2>
+  <h1>Hello, coders! 👋 I’m Arsamak</h1>
+  <p>A passionate Frontend Developer crafting seamless digital experiences.</p>
 </div>
 
 ---
 
-## ✨ Fun Intro
+## 🏆 Achievements
 <div align="center">
-  <pre>
-  💖💖💖💖💖💖💖💖💖💖
-  I HAVE FUN CUSTOMIZING
-  💖💖💖💖💖💖💖💖💖💖
-  </pre>
-  <p><i>Now playing: Imagine Dragons - Thunder</i></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Spector323&theme=onedark&no-frame=true&margin-w=5" alt="Trophies" />
 </div>
 
 ---
 
-## 🙌 Thank You For Visiting
+## 🛠 Tech Stack
 <div align="center">
-  <pre>
-  .-------.
-  |  ***  | 
-  |  ***  | 
-  |_______|
-  </pre>
-  <p>A small smiley for you! 😊</p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,vue,reactnative,flutter,androidstudio,nodejs,express,mysql,postgres,mongodb,git,bash,aws,csharp,java,php,unity" />
 </div>
 
 ---
 
-## 📂 Highlighted Repo
+## 📊 Stats Overview
 <div align="center">
-  <pre>
-  .-----------------.
-  |  Student Platform  |
-  |-----------------|
-  | A React-based platform for students  |
-  | with a ranking system. Open to collabs! |
-  `-----------------`
-  </pre>
-  <a href="https://github.com/Spector323/student-platform"><strong>Repo: Student Platform</strong></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📊 Stats
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Contribution Graph
+## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📉 Profile Metrics
+## 🗣 Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎮 Game: "Build My Commit Graph"
+<div align="center">
+  <p>Help me build my commit graph! Click to simulate commits and see my activity grow.</p>
+  <a href="https://spector323.github.io/streak-game/">Play the Commit Game 🚀</a>
+</div>
+
+---
+
+## 📂 Highlighted Projects
+- **[Student Platform](https://github.com/Spector323/student-platform)**: A React-based platform for students with a ranking system.  
+- **[TaskMaster](https://github.com/Spector323/taskmaster)**: A Flutter app for task management.  
+- **[AngularVerse](https://github.com/Spector323/angularverse)**: An Angular site with Material UI and animations.  
+
+---
+
+## 📅 Contribution Graph
+<div align="center">
+  <img src="https://ghchart.rshah.org/Spector323" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📉 Profile Summary
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spector323&theme=dracula" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spector323&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spector323&theme=dracula" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spector323&theme=dracula" alt="Productive Time" />
 </div>
 
 ---
 
-## 😂 Jokes
+## 🌆 GitHub Skyline
 <div align="center">
-  <p><strong>Fun Fact:</strong> Compiling code is like trying to herd cats — it’s a lot harder than it looks!</p>
-</div>
-
----
-
-## 💬 Quotes
-<div align="center">
-  <blockquote>
-    <p>"Code is like humor. When you have to explain it, it’s bad."</p>
-    <p>— Cory House</p>
-  </blockquote>
-</div>
-
----
-
-## 🎮 Games: Have Some Fun
-<div align="center">
-  <p><a href="https://spector323.github.io/streak-game/">Build My Commit Graph 🚀</a></p>
-  <p>Click to simulate my commits and grow my streak!</p>
-</div>
-
----
-
-## ☁️ Word Cloud
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/arsamak-wordcloud.png" alt="Word Cloud" width="400"/>
-  <p><i>Join the Word Cloud Board: Add your name!</i></p>
-</div>
-
----
-
-## 🌟 Interests
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,js,ts,nodejs,mongodb,git,aws" />
+  <a href="https://skyline.github.com/Spector323/2024"><img src="https://github.com/user-attachments/assets/6f5e5f5f-5f5f-5f5f-5f5f-5f5f5f5f5f5f" alt="GitHub Skyline" width="600"/></a>
+  <p>Check out my 2024 Skyline! (Click to view in 3D)</p>
 </div>
 
 ---
@@ -120,5 +91,5 @@
 ---
 
 <div align="center">
-  <p>🌙 It’s Dark in Here...</p>
+  <p>Code is my art. Let’s create something amazing together! ✨</p>
 </div>
