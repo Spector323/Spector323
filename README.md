@@ -61,8 +61,10 @@
   <h3>Моя активность</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   <p><i>Кодим без остановки в 2024-2025! 🚀</i></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spector323&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <p><i>Мой стрик — огонь!</i></p>
+</div>
   <h3>Топ языков</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
   <p><i>Вот чем я живу!</i></p>
