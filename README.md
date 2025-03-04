@@ -56,24 +56,25 @@
 
 ---
 
-## 📈 Статистика 2024-2025
+## 📈 Моя статистика 2024-2025
 <div align="center">
-  <h3>Моя активность</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <p><i>Кодим без остановки в 2024-2025! 🚀</i></p>
-  <div align="center">
+  <h3>Активность</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <p><i>Моя активность за 2024-2025 — кодим без остановки! 🚀</i></p>
+
+  <h3>Серия</h3>
   <img src="https://streak-stats.demolab.com/?user=Spector323&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   <p><i>Мой стрик — огонь!</i></p>
-</div>
+
   <h3>Топ языков</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-  <p><i>Вот чем я живу!</i></p>
+  <p><i>Мои любимые языки!</i></p>
 </div>
 
 ---
 
 ## 🔥 Избранные проекты
-- **[Student Platform](https://github.com/Arsamak/student-platform)**: Платформа на React для студентов с системой рейтинга и адаптивным дизайном.  
+- **[Student Platform](https://github.com/Spector323/student-platform)**: Платформа на React для студентов с системой рейтинга и адаптивным дизайном.  
 - **[Название проекта 2](ссылка)**: Мобильное приложение на Flutter для управления задачами.  
 - **[Название проекта 3](ссылка)**: Сайт на Angular с Material UI и анимациями.  
 
