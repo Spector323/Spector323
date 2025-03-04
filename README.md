@@ -47,11 +47,7 @@
   <img src="https://camo.githubusercontent.com/0022dd4ce0ce427e3dcdb6822f357d229672f271b0c63a6bc7eba9d9142f05b1/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d53706563746f72333233267468656d653d7261646963616c26686964655f626f726465723d74727565" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-## 📊 Stats Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=onedark&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
-</div>
+
 ---
 
 ## 🏆 Achievements
