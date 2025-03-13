@@ -44,10 +44,19 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"&width=600 alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true"&width=600" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+![Profile views](https://komarev.com/ghpvc/?username=Spector323&color=blueviolet)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
 </div>
 
 ---
@@ -63,15 +72,15 @@
 <div align="center">
   <table>
     <tr>
-      <td><strong><a href="https://github.com/Spector323/student-platform">Student Platform</a></strong></td>
+      <td><strong><a href="https://github.com/Spector323/student-platform">🎓 Student Platform</a></strong></td>
       <td>A React-based platform for students with a ranking system.</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/Spector323/taskmaster">TaskMaster</a></strong></td>
+      <td><strong><a href="https://github.com/Spector323/taskmaster">📋 TaskMaster</a></strong></td>
       <td>A Flutter app for task management.</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/Spector323/angularverse">AngularVerse</a></strong></td>
+      <td><strong><a href="https://github.com/Spector323/angularverse">✨ AngularVerse</a></strong></td>
       <td>An Angular site with Material UI and animations.</td>
     </tr>
   </table>
@@ -105,4 +114,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+collaborate+and+create+magic+%F0%9F%92%AB" alt="Typing Animation" />
 </div>
- вот мой код тут измени свои изменения
