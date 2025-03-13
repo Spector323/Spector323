@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+my+world+%F0%9F%8C%8E;I'm+Arsamak%2C+a+Frontend+Innovator;Let's+build+something+amazing+together!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFA500&background=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+my+world+%F0%9F%8C%8E;I'm+Arsamak%2C+a+Frontend+Innovator;Let's+build+something+amazing+together!" alt="Typing Animation" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 ## 🚀 About Me
 <div align="center">
   <p>I'm a passionate <strong>Frontend Developer</strong> with a love for creating seamless, user-friendly digital experiences. I specialize in modern web technologies and enjoy turning ideas into reality with clean, efficient code.</p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Coding Cat GIF" width="300" />
 </div>
 
 ---
@@ -43,11 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐾 GitHub Stats (with a Cat Twist!)
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Spector323&color=blueviolet)
+![Profile views](https://komarev.com/ghpvc/?username=Spector323&color=orange)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
@@ -56,6 +56,8 @@
 <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img src="https://cdn.jsdelivr.net/gh/afkcodes/cat-to-code@main/cat-to-code-orange.svg" alt="Cat Coding SVG" width="600" />
 
 </div>
 
@@ -112,5 +114,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+collaborate+and+create+magic+%F0%9F%92%AB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FFA500&background=000000&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+collaborate+and+create+magic+%F0%9F%92%AB" alt="Typing Animation" />
 </div>
