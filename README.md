@@ -47,7 +47,8 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Spector323&color=orange)
+<!-- Custom Cat SVG -->
+<img src="https://raw.githubusercontent.com/Spector323/Spector323/main/custom-stats.svg" alt="Custom Cat Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
@@ -56,8 +57,6 @@
 <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-<img src="https://cdn.jsdelivr.net/gh/afkcodes/cat-to-code@main/cat-to-code-orange.svg" alt="Cat Coding SVG" width="600" />
 
 </div>
 
