@@ -53,34 +53,6 @@
 
 ---
 
-## 📂 Highlighted Projects
-<div align="center">
-  <table>
-    <tr>
-      <td><strong><a href="https://github.com/Spector323/student-platform">Student Platform</a></strong></td>
-      <td>A React-based platform for students with a ranking system.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/Spector323/taskmaster">TaskMaster</a></strong></td>
-      <td>A Flutter app for task management.</td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/Spector323/angularverse">AngularVerse</a></strong></td>
-      <td>An Angular site with Material UI and animations.</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌟 Visitor Counter
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Spector323/count.svg" alt="Visitor Counter" />
-  <p>Thanks for visiting! You're visitor number <strong>#</strong> 🎉</p>
-</div>
-
----
-
 ## 📬 Connect With Me
 <div align="center">
   <a href="https://t.me/spector323">
@@ -93,10 +65,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+collaborate+and+create+magic+%F0%9F%92%AB" alt="Typing Animation" />
-</div>
- вот мой код тут измени свои изменения
