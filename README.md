@@ -41,7 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"&width=600 alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true"&width=600" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
