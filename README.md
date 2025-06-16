@@ -44,7 +44,6 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=radical&hide_border=true)
   
-  ![Streak Stats](https://streak-stats.demolab.com/?user=Spector323&theme=radical&hide_border=true)
   
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Spector323&theme=radical&no-frame=true&margin-w=5&column=5)
 
