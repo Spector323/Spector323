@@ -36,16 +36,16 @@
 </div>
 
 ---
-## 📬 Connect With Me
+## 📬 Connect With Me  
 <div align="center">
   <a href="https://t.me/spector323"  target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white&label=" alt="Telegram" />
   </a>
   <a href="https://wa.me/89280928761" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white&label=" alt="WhatsApp" />
   </a>
   <a href="mailto:amiraldiev752@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white&label=" alt="Email" />
   </a>
 </div>
 
