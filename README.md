@@ -43,9 +43,6 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=radical&hide_border=true)
-  
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Spector323&theme=radical&no-frame=true&margin-w=5&column=5)
 
 </div>
 
