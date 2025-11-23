@@ -35,19 +35,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 🔐 [Full-stack Auth System](https://github.com/Spector323/auth-login-frontend)
-React + Node.js authentication with JWT, protected routes, and form validation
-
-### ✅ [Todo List Application](https://github.com/Spector323/todo-list-fullstack)
-Full-stack task manager with React, TypeScript, and Express
-
-### 🛒 [E-commerce Platform](https://github.com/Spector323/ecommerce-platform)
-Modern online store with shopping cart and payment integration
-
----
-
 ## 📫 Connect With Me
 
 <p>
