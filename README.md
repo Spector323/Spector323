@@ -44,9 +44,6 @@
   <a href="mailto:amiraldiev752@gmail.com" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email">
   </a>&nbsp;&nbsp;
-  <a href="https://career.habr.com/your-profile" target="_blank">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Habr Career">
-  </a>
 </p>
 
 ---
