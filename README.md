@@ -41,9 +41,6 @@
   <a href="https://t.me/spector323" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram">
   </a>&nbsp;&nbsp;
-  <a href="mailto:amiraldiev752@gmail.com" target="_blank">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email">
-  </a>&nbsp;&nbsp;
 </p>
 
 ---
