@@ -1,3 +1,4 @@
+```markdown
 # █▀█ █▀█ █▀█ █▀▀ █▀█ █▀▀ █▀█   █▀▄▀█ █▀▀ █▄▄ █▀█ █▀▀ █▀▄
 # █▀▀ █▀▄ █▄█ █▄█ █▀▄ ██▄ █▀▄   █░▀░█ ██▄ █▄█ █▀▄ ██▄ █▄▀
 
@@ -15,12 +16,14 @@
 
 ## ⚡ Current Focus
 
+```javascript
 const currentFocus = {
   work: "Ищу продуктовую команду для роста до Senior'а",
   code: ["Next.js App Router", "Microfrontends", "WebAssembly"],
   read: "Clean Architecture на практике",
   fun: "Экспериментирую с WebGL и Three.js"
 };
+```
 
 ---
 
@@ -163,36 +166,3 @@ JSON         30 mins          ▒░░░░░░░░░░░░░░░�
 3. **Email** — вставь свой в разделе Let's Connect
 4. **LinkedIn** — добавь ссылку если есть
 5. **Портфолио** — если есть сайт-портфолио
-
-## 🚀 Дополнительные плюшки (не обязательно, но круто):
-
-**Для WakaTime статистики:**
-1. Зарегистрируйся на [wakatime.com](https://wakatime.com)
-2. Установи плагин в свою IDE
-3. Получишь реальную статистику своего кодинга
-
-**Для снейк-анимации:**
-Создай файл `.github/workflows/snake.yml`:
-```yaml
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: Spector323
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
