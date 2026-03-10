@@ -25,6 +25,8 @@
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="120"/>
 </p>
 
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/> </p>
 ---
 
 # 🧠 About Me
@@ -70,8 +72,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Spector323&theme=tokyonight&no-frame=true&row=1"/> </p>
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=tokyo-night"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/> </p>
+
 💡 Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
