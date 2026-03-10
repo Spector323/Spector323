@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Arsamak</h1>
-<h3 align="center">Frontend / Fullstack Developer</h3>
+<h3 align="center">Frontend / Fullstack Developer | React • TypeScript • Next.js</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;TypeScript+Engineer;Next.js+Specialist;Node.js+%7C+NestJS+Developer;Building+modern+web+apps&center=true&width=600&height=50">
@@ -64,6 +64,8 @@
 
 ---
 
+
+```markdown
 # 🧠 Tech Mind Map
 
 ```mermaid
@@ -84,7 +86,7 @@ mindmap
     DevOps
       Docker
       Vercel
-      🚀 Featured Projects
+🚀 Featured Projects
 🛒 E-commerce Platform
 
 Stack
@@ -96,10 +98,13 @@ MongoDB
 
 Features
 
-• product catalog
-• authentication
-• shopping cart
-• REST API
+product catalog
+
+authentication
+
+shopping cart
+
+REST API
 
 📊 CRM Dashboard
 
@@ -111,9 +116,11 @@ PostgreSQL
 
 Features
 
-• analytics dashboard
-• role-based access
-• REST API
+analytics dashboard
+
+role-based access
+
+REST API
 
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=tokyonight&hide_border=true"/> </p>
@@ -125,8 +132,6 @@ Features
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=tokyo-night"/> </p>
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/> </p>
-🧊 3D Contribution Graph
-<p align="center"> <img src="./profile-3d-contrib/profile-night-view.svg"/> </p>
 💡 Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
@@ -144,4 +149,4 @@ amiraldiev752@gmail.com
 GitHub
 https://github.com/Spector323
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/> </p> <p align="center"> ⚡ Always building, always learning </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/> </p> <p align="center"> ⚡ Always building, always learning </p> ```вот так все должны быть?
