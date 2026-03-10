@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Arsamak%20Hamkhoev&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Hamkhoev%20Arsamak&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Arsamak</h1>
