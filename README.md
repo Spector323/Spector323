@@ -64,61 +64,6 @@
 
 ---
 
-# 🧠 Tech Mind Map
-
-mindmap
-  root((Arsamak))
-    Frontend
-      React
-      Next.js
-      TypeScript
-      Tailwind
-    Backend
-      Node.js
-      NestJS
-      Prisma
-    Databases
-      PostgreSQL
-      MongoDB
-    DevOps
-      Docker
-      Vercel
-🚀 Featured Projects
-🛒 E-commerce Platform
-
-Stack
-
-React
-Next.js
-Node.js
-MongoDB
-
-Features
-
-product catalog
-
-authentication
-
-shopping cart
-
-REST API
-
-📊 CRM Dashboard
-
-Stack
-
-React
-Node.js
-PostgreSQL
-
-Features
-
-analytics dashboard
-
-role-based access
-
-REST API
-
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spector323&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 🔥 GitHub Streak
@@ -133,8 +78,6 @@ REST API
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Spector323&label=Profile%20views&color=blue&style=flat"/> </p>
-🎮 Coding Mode
-<p align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/> </p>
 📫 Contact
 
 Telegram
@@ -146,4 +89,3 @@ amiraldiev752@gmail.com
 GitHub
 https://github.com/Spector323
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/> </p> <p align="center"> ⚡ Always building, always learning </p> ```вот так все должны быть?
