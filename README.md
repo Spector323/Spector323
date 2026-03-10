@@ -77,17 +77,23 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Spector323&label=Profile%20views&color=blue&style=flat"/> </p>
-# 📫 Contact
+## 🌐 Connect with me
 
 <p align="center">
 
 <a href="https://t.me/spector323">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-@spector323-blue?style=for-the-badge&logo=telegram"/>
 </a>
 
 <a href="mailto:amiraldiev752@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-amiraldiev752%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://github.com/Spector323">
+<img src="https://img.shields.io/badge/GitHub-Spector323-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 <a href="https://github.com/Spector323">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
