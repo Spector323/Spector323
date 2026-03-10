@@ -77,14 +77,21 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Spector323&label=Profile%20views&color=blue&style=flat"/> </p>
-📫 Contact
+# 📫 Contact
 
-Telegram
-https://t.me/spector323
+<p align="center">
 
-Email
-amiraldiev752@gmail.com
+<a href="https://t.me/spector323">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-GitHub
-https://github.com/Spector323
-как ты думаешь что можно было бы сделать еше или формить карсивее как професиональный дизайнер и сеньор офрмилои бы 
+<a href="mailto:amiraldiev752@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Spector323">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
