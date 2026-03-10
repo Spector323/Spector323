@@ -18,31 +18,12 @@
 </p>
 
 ---
-# ⚡ Tech Energy
 
-<p align="center">
-
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="120"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,prisma"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,vite,webpack,figma"/>
-
-</p>
-
----
-# ⚛️ React Energy
+# ⚛️ React and Pythone Energy
 
 <p align="center">
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120"/>
 </p>
 
 🐍 Contribution Snake
