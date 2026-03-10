@@ -22,19 +22,19 @@
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="110"/>
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="120"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,prisma"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,vite,webpack,figma"/>
 
 </p>
 
