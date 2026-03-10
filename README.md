@@ -111,30 +111,10 @@ React • Node.js • PostgreSQL
 
 ---
 
-# 🧠 Tech Mind Map
-
-```mermaid
-mindmap
-  root((Arsamak))
-    Frontend
-      React
-      Next.js
-      TypeScript
-      Tailwind
-    Backend
-      Node.js
-      NestJS
-      Prisma
-    Databases
-      PostgreSQL
-      MongoDB
-    DevOps
-      Docker
-      Vercel
 💡 Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Spector323&label=Profile%20views&color=blue&style=flat"/> </p>
 📫 Contact
 <p align="center"> <a href="https://t.me/spector323"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/> </a> <a href="mailto:amiraldiev752@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/Spector323"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=120&section=footer"/> </p> 
