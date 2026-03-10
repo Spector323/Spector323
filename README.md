@@ -64,11 +64,8 @@
 
 ---
 
-
-```markdown
 # 🧠 Tech Mind Map
 
-```mermaid
 mindmap
   root((Arsamak))
     Frontend
