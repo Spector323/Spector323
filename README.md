@@ -11,10 +11,10 @@
 
 ---
 
-# ⚛️ React Universe
+# 🌌 Coding Universe
 
 <p align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
 </p>
 
 ---
