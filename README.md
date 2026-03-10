@@ -165,3 +165,26 @@ GitHub: https://github.com/Spector323
 <p align="center">
 ⚡ Always building, always learning
 </p>
+## 💡 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Spector323&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=const+developer+=+Arsamak;Building+modern+web+apps;React+%7C+TypeScript+%7C+Next.js;Always+learning+new+things&center=true&width=600&height=50">
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Spector323&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
