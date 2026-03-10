@@ -1,8 +1,12 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Arsamak%20Hamkhoev&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Arsamak</h1>
 <h3 align="center">Frontend / Fullstack Developer | React • TypeScript • Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Fullstack+Engineer;TypeScript+Specialist;Always+learning+new+things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Fullstack+Engineer;TypeScript+Specialist;Building+modern+web+apps;Always+learning+new+things&center=true&width=600&height=50">
 </p>
 
 ---
@@ -12,7 +16,8 @@
 - 💻 3+ years building web applications  
 - ⚛️ Specialized in **React / TypeScript / Next.js**  
 - 🧠 Interested in **system architecture & performance**  
-- 🔧 Also working with **Node.js / NestJS / Prisma**
+- 🔧 Working with **Node.js / NestJS / Prisma**  
+- 🚀 Love building scalable and clean architectures
 
 ---
 
@@ -20,7 +25,7 @@
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css" />
 </p>
 
@@ -28,7 +33,7 @@
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" />
 </p>
 
@@ -36,7 +41,7 @@
 
 ### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
@@ -44,7 +49,7 @@
 
 ### Dev Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,docker,vite,webpack,figma" />
 </p>
 
@@ -52,18 +57,18 @@
 
 # 🧩 Featured Projects
 
-### 🛒 E-commerce Platform
+## 🛒 E-commerce Platform
 
-Full-stack application.
+Full-stack e-commerce application.
 
-Tech stack:
+**Stack**
 
 React  
 Next.js  
 Node.js  
 MongoDB  
 
-Features:
+**Features**
 
 - product catalog
 - shopping cart
@@ -72,17 +77,17 @@ Features:
 
 ---
 
-### 📊 CRM Dashboard
+## 📊 CRM Dashboard
 
-Customer management platform.
+Customer management system.
 
-Tech stack:
+**Stack**
 
 React  
 Node.js  
 PostgreSQL  
 
-Features:
+**Features**
 
 - analytics dashboard
 - role-based access
@@ -90,7 +95,7 @@ Features:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Spector323&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -99,7 +104,15 @@ Features:
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Spector323&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spector323&theme=tokyo-night"/>
@@ -115,12 +128,39 @@ Features:
 
 ---
 
-# 📫 Contact
+# 💡 Dev Quote
 
-Telegram: https://t.me/spector323  
-Email: amiraldiev752@gmail.com  
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Spector323&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+Telegram: https://t.me/spector323  
+
+Email: amiraldiev752@gmail.com  
+
+GitHub: https://github.com/Spector323
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
 
 <p align="center">
 ⚡ Always building, always learning
