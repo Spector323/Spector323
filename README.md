@@ -44,7 +44,7 @@
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css,next,nust,nuxt"/>
 </p>
 
 ### Backend
