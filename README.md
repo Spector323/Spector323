@@ -44,19 +44,19 @@
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css,next,nust,nuxt"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,sass,html,css,nextjs,nuxt,nginx,htmx"/>
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,bootstrap,flutter,flask,firebase,express,git,github,gitlab,androidstudio,blender,css,dart,materialui,npm,postgres,postman,prisma,pycharm,py,redux,ts,vscode"/>
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,nestjs"/>
 </p>
 
 ### Dev Tools
